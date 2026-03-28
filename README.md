@@ -10,11 +10,13 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 ## Algorithm
 
-1. SGD Regressor – Used gradient descent for linear prediction.
-2. Feature Scaling – Standardized features and target using StandardScaler.
-3. One-Hot Encoding – Converted categorical variables with get_dummies().
-4. Model Evaluation & Plot – Assessed with MSE, R², MAE and visualized predictions.
+1. Import the necessary libraries.
+2. Load the dataset.
+3. Preprocess the data (handle missing values, encode categorical variables).
+4. Split the data into features (X) and target (y).
+5. Divide the data into training and testing sets. 6.Create an SGD Regressor model. 7.Fit the model on the training data. 8.Evaluate the model performance. 9.Make predictions and visualize the results.
 
+   
 ## Program:
 ```
 /*
@@ -92,7 +94,9 @@ plt.show()
 
 ## Output:
 
-ACTUAL VS PREDICTED PRICES USING SGD REGRESSOR
+<img width="647" height="498" alt="image" src="https://github.com/user-attachments/assets/9cf9f005-a32e-4682-a3b5-20a1c3e709bb" />
+<img width="395" height="576" alt="image" src="https://github.com/user-attachments/assets/8c315d12-4648-4244-af46-10b9ac7eeebb" />
+<img width="672" height="281" alt="image" src="https://github.com/user-attachments/assets/ef3d2d28-2fbf-4129-8f4c-02059500c9be" />
 <img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/f666e4fb-634b-4e2f-b2dd-0a2de06c8e1c" />
 
 ## Result:
