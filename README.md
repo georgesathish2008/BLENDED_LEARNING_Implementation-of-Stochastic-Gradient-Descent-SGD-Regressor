@@ -95,10 +95,11 @@ plt.show()
 
 ## Output:
 
-<img width="647" height="498" alt="image" src="https://github.com/user-attachments/assets/9cf9f005-a32e-4682-a3b5-20a1c3e709bb" />
-<img width="395" height="576" alt="image" src="https://github.com/user-attachments/assets/8c315d12-4648-4244-af46-10b9ac7eeebb" />
-<img width="672" height="281" alt="image" src="https://github.com/user-attachments/assets/ef3d2d28-2fbf-4129-8f4c-02059500c9be" />
-<img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/f666e4fb-634b-4e2f-b2dd-0a2de06c8e1c" />
+<img width="500" height="369" alt="image" src="https://github.com/user-attachments/assets/ad64e3dc-ad6b-4cd4-91c8-aaab5d0a8f28" />
+<img width="316" height="418" alt="image" src="https://github.com/user-attachments/assets/da68eb39-33c9-4636-b827-914019d70b05" />
+<img width="504" height="143" alt="image" src="https://github.com/user-attachments/assets/4c58af68-e07d-4956-9838-6e8ba4a1717a" />
+<img width="519" height="349" alt="image" src="https://github.com/user-attachments/assets/0a691a16-53a0-497e-a284-5e56c45278b9" />
+
 
 ## Result:
 Thus, the implementation of Stochastic Gradient Descent (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
